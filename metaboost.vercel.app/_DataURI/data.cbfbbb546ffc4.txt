@@ -1,0 +1,1 @@
+chrome-extension://gomekmidlodglbbmalcneegieacbdmki/client/cookie/cookieHandler.js
